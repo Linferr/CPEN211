@@ -1,0 +1,74 @@
+D:/UBC/211-lab7/lab7_top.v {2 {vlog -work work -stats=none D:/UBC/211-lab7/lab7_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab7_top
+** Warning: (vlog-2083) D:/UBC/211-lab7/lab7_top.v(24): Carriage return (0x0D) is not followed by a newline (0x0A).
+-- Compiling module mem
+
+Top level modules:
+	lab7_top
+
+} {} {}} D:/UBC/211-lab7/Instruction_Decoder_lab7.v {1 {vlog -work work -stats=none D:/UBC/211-lab7/Instruction_Decoder_lab7.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module instuction_decoder
+-- Compiling module Mux31
+
+Top level modules:
+	instuction_decoder
+
+} {} {}} D:/UBC/211-lab7/datapath_lab7.v {1 {vlog -work work -stats=none D:/UBC/211-lab7/datapath_lab7.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} D:/UBC/211-lab7/lab7_top_tb.v {1 {vlog -work work -stats=none D:/UBC/211-lab7/lab7_top_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab7_check_tb
+
+Top level modules:
+	lab7_check_tb
+
+} {} {}} D:/UBC/211-lab7/cpu_lab7.v {1 {vlog -work work -stats=none D:/UBC/211-lab7/cpu_lab7.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cpu
+
+Top level modules:
+	cpu
+
+} {} {}} D:/UBC/211-lab7/shifter_lab7.v {1 {vlog -work work -stats=none D:/UBC/211-lab7/shifter_lab7.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} D:/UBC/211-lab7/regfile_lab7.v {1 {vlog -work work -stats=none D:/UBC/211-lab7/regfile_lab7.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module regfile
+-- Compiling module vDFFE
+-- Compiling module decoder1
+-- Compiling module decoder2
+-- Compiling module mux
+
+Top level modules:
+	regfile
+
+} {} {}} D:/UBC/211-lab7/fsm_lab7.v {1 {vlog -work work -stats=none D:/UBC/211-lab7/fsm_lab7.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module control
+-- Compiling module vDFF
+
+Top level modules:
+	control
+
+} {} {}} D:/UBC/211-lab7/alu_lab7.v {1 {vlog -work work -stats=none D:/UBC/211-lab7/alu_lab7.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+-- Compiling module AddSub
+-- Compiling module Adder1
+
+Top level modules:
+	ALU
+
+} {} {}}
